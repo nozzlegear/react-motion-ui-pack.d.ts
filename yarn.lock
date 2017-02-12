@@ -2,12 +2,12 @@
 # yarn lockfile v1
 
 
-"@types/react-motion@^0.0.21":
+"@types/react-motion@*":
   version "0.0.21"
   resolved "https://registry.yarnpkg.com/@types/react-motion/-/react-motion-0.0.21.tgz#4d341968c541de7ab5fee7814e2edc3c737b3eba"
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@^15.0.9":
+"@types/react@*":
   version "15.0.9"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-15.0.9.tgz#b45b6174870890a7f8426cdad6935ba7af4c13f4"
