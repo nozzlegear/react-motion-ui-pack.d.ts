@@ -1,0 +1,32 @@
+{
+  "name": "@types/react-motion-ui-pack",
+  "description": "TypeScript definition for react-motion-ui-pack.",
+  "version": "0.9.0",
+  "typings": "react-motion-ui-pack.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nozzlegear/react-motion-ui-pack.d.ts.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "types",
+    "@types",
+    "react-motion",
+    "animation"
+  ],
+  "author": "Joshua Harms <joshua@nozzlegear.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nozzlegear/react-motion-ui-pack.d.ts/issues"
+  },
+  "homepage": "https://github.com/nozzlegear/react-motion-ui-pack.d.ts#readme",
+  "peerDependencies": {
+    "@types/react": "^15.0.9",
+    "@types/react-motion": "^0.0.21"
+  },
+  "devDependencies": {
+    "@types/react": "^15.0.9",
+    "@types/react-motion": "^0.0.21"
+  }
+}
